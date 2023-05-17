@@ -1,0 +1,2 @@
+# Bot-typescript
+Discord bot
